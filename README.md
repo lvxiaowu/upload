@@ -3,7 +3,7 @@
 ****
 
 ```js
-const uploadToOss = require('@zooey1184/upload_to_oss')
+const uploadToOss = require('@lvxiaowu/upload_to_oss')
 const path = require('path')
 
 const config = {
