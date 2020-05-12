@@ -1,0 +1,27 @@
+{
+  "name": "@lvxiaowu/upload_to_oss",
+  "version": "1.0.1",
+  "description": "upload oss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvxiaowu/upload.git"
+  },
+  "keywords": [
+    "upload",
+    "oss"
+  ],
+  "author": "lvxiaowu <1518709980@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvxiaowu/upload/issues"
+  },
+  "homepage": "https://github.com/lvxiaowu/upload#readme",
+  "dependencies": {
+    "ali-oss": "^6.1.1",
+    "chalk": "^2.4.2"
+  }
+}
